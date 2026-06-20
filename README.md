@@ -87,3 +87,14 @@ To guarantee strict compliance with data quality SLAs, schema testing assertions
 
 
 ```
+
+
+
+
+
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~    Insights:
+
